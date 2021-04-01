@@ -1,0 +1,27 @@
+{
+  "name": "takou",
+  "version": "1.0.0",
+  "description": "akou in typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inextor/Takou.git"
+  },
+  "keywords": [
+    "another",
+    "typescript",
+    "orm"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/inextor/Takou/issues"
+  },
+  "homepage": "https://github.com/inextor/Takou#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
